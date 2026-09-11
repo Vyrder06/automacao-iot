@@ -14,16 +14,16 @@ CLP simulado → Python (Modbus) → Nuvem (MQTT) → Banco de dados → Dashboa
 Cada seta acima é uma fase do projeto, construída e documentada de forma incremental.
 
 ## Progresso
- Fase 1 — Simulador de sensores em Python + banco de dados (SQLite/PostgreSQL)
+- [] Fase 1 — Simulador de sensores em Python + banco de dados (SQLite/PostgreSQL)
  
- Fase 2 — Leitura via protocolo Modbus (pymodbus) de um CLP simulado
+- [] Fase 2 — Leitura via protocolo Modbus (pymodbus) de um CLP simulado
  
- Fase 3 — Envio dos dados via MQTT para a nuvem (AWS IoT Core / Azure IoT Hub)
+- [] Fase 3 — Envio dos dados via MQTT para a nuvem (AWS IoT Core / Azure IoT Hub)
  
- Fase 4 — Dashboard no Power BI com alertas em tempo real
+- [] Fase 4 — Dashboard no Power BI com alertas em tempo real
  
- Fase 5 — Consolidação final do pipeline completo
- 
+- [] Fase 5 — Consolidação final do pipeline completo
+
 ## Tecnologias
 Camada	Ferramenta
 Linguagem	Python
@@ -43,6 +43,6 @@ Estrutura do repositório
 
 🚧 Em desenvolvimento — atualizando conforme avanço no meu roteiro de estudos.
 
-Autor
+## Autor
 
 João Souza — Estudante de Engenharia de Controle e Automação LinkedIn · GitHub
